@@ -1,6 +1,7 @@
 #!/bin/zsh
 # The script is use to upload a image or delete a image on https://www.qiniu.com
 # 这个脚本用于在七牛云上上传或者删除一张图片
+# 具体文档可参考 https://github.com/qiniu/qshell
 
 echo "Upload a new image ==> 1"
 echo "Delete a image ==> 2"
